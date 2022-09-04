@@ -46,3 +46,9 @@ console.log(score1,score2,otherscore)
 //object kopyalama ile ayni... let settings2={...settings}
 let copyOfScore=[...score]
 console.log(copyOfScore)
+
+let [,pronoun,,name]=["Merhaba","benim","adım","Mehmet"];
+console.log(pronoun)
+
+
+
